@@ -8,3 +8,4 @@ Number in the squares on the board
 10 ...
 
 The program runs in Python and uses the matplotlib library to plot the path of the knight.
+
